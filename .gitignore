@@ -10,5 +10,9 @@
 ###< symfony/framework-bundle ###
 
 ###> docker ###
-./docker/mysql/db-data
+/docker/mysql/db-data/*
 ###< docker ###
+
+###> IDE ###
+.idea
+###< IDE ###
